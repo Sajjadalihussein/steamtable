@@ -1,0 +1,51 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+
+}
+
+h4 {
+
+	padding-bottom: -1%;
+}
+
+.form-select {
+	margin-top: 1%;
+}
+.form-group{
+	margin-top: 1%;
+}
+.btn {
+	margin-top: 1%;
+}
+
+form {
+	padding: 2%;
+	padding-bottom: 12%;
+	margin-top: 3%;
+	margin-left: 10%;
+	width: 40%;	
+}
+form select,button{
+	width: 100%;
+	padding: 2%;
+}
+
+
+
+form input{
+	margin-top: 5%;
+	padding:2%;
+}
+
+form button {
+	padding-top: 8%;
+}
+
+.resulte {
+	text-align: center;
+	
+}
+
+
